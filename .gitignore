@@ -1,0 +1,13 @@
+.DS_Store
+.idea/
+
+# Generated locally and uploaded as GitHub Release assets.
+/releases/
+
+# Never commit Apple distribution or signing artifacts.
+*.ipa
+*.xcarchive
+*.mobileprovision
+*.p12
+*.cer
+*.key
