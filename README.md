@@ -1,6 +1,6 @@
-# Libra Open Source Compliance
+# Libra Open Source Software Compliance
 
-This repository publishes the open-source compliance materials distributed
+This repository publishes the open-source software (OSS) compliance materials distributed
 with Libra Media Player. It does not contain Libra application source code.
 
 ## Downloads
@@ -45,3 +45,9 @@ appropriate Apple signing identity, provisioning profile, and entitlements.
 Generated files under `releases/` are intentionally ignored by Git. The ZIP,
 its `.sha256` file, and the standalone manifest are published as assets on the
 matching GitHub Release instead of being committed to repository history.
+
+## Licensing
+
+Third-party materials in the Releases are governed by their respective included
+licenses. This repository does not contain Libra application source code or grant
+an open-source license to the Libra application.
